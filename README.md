@@ -2,7 +2,7 @@
 A simple web-based calendar app for scheduling your work day. Keep track of your tasks and events from 12 PM (noon) to 12 AM (midnight).
 
 ## Quick-view
-Here is a screenshot of application
+Here is a screenshot of application (https://stasbaz.github.io/tasks-planner/)
 
 ## Features
 Hourly Time Blocks that will provides time blocks for every hour from 12 PM to 12 AM, allowing you to plan your day effectively.
